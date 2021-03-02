@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Digital Humanities Project",
-    "currentPage": "the30yearverdict.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 29,
+    "uniqCompNum": 36,
     "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -62,7 +62,7 @@
     "TwitterExploration.html": {
       "settings": {
         "title": "Twitter Exploration ",
-        "order": 1,
+        "order": 2,
         "meta_descr": "We look at the significance behind #BoycottAllMuslims that began to trend in October 2019"
       },
       "components": [
@@ -506,7 +506,7 @@
     "page2.html": {
       "settings": {
         "title": "Dainik Jagran Exploration",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1027,7 +1027,7 @@
         }
       ]
     },
-    "the30yearverdict.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
