@@ -1,0 +1,48 @@
+body {
+background-color:yellow;
+}
+
+h1 {
+    color:light
+    font-family:Times;
+    background-color: lightblue;
+    border: 5px solid red;
+    padding: 40px;
+}
+
+p {
+color:blue;
+background-color:lightgreen;
+border: 2px dotted red;
+}
+
+#highlight{
+  color: blue;
+  background-color: lightgreen;
+  border: 2px dotted green;
+}
+
+.top {
+      background-color: red;
+      float: left;
+}
+
+h4 {
+color:black;
+background-color: lightgreen;
+border: 3px solid red;
+}
+
+h1 {
+    color: black;
+    background:white;
+    font-family:"Gill Sans";
+    text-transform: uppercase;
+}
+
+img {
+border: 5px solid magenta;
+width: 50%;
+height: 50%;
+margin-left: 50px;
+}
